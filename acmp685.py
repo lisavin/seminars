@@ -1,0 +1,14 @@
+a=int(input())
+b=int(input())
+c=int(input())
+k=int(input())
+n=int(input())
+m=int(input())
+d=a*k+b*n+c*m
+e=a*k+b*m+c*n
+f=a*n+b*k+c*m
+g=a*n+b*m+c*k
+h=a*m+b*n+c*k
+j=a*m+b*k+c*n
+lst=[d,e,f,g,h,j]
+print(max(lst))

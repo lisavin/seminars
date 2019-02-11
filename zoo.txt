@@ -1,0 +1,9 @@
+lion 1
+cats 4
+tigers 5
+dogs 3
+parrots 43
+pandas 2
+seahorses 78
+bears 2
+monkeys 12
